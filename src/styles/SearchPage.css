@@ -1,0 +1,26 @@
+.searchPage__info {
+	padding: 20px;
+}
+.searchPage__info > p {
+	margin-left: 15px;
+	font-size: 14px;
+}
+.searchPage__info > h1 {
+	margin: 12px;
+}
+.searchPage__filters {
+	display: flex;
+	margin-top: 15px;
+	margin-left: 5px;
+}
+
+.searchPage__filters > button {
+	border-radius: 33px;
+	margin: 7px;
+	text-transform: inherit;
+}
+
+.searchPage__cards > hr {
+	width: 95%;
+	margin: 0 auto;
+}
